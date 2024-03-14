@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "65f1aedc0cc13f645a31096f",
+    "index": 1,
+    "guid": "53af1d9e-836d-403d-80d5-47e9b7ac09f7",
+    "isActive": false,
+    "balance": "$2,176.78",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "green",
+    "name": "Maritza Durham",
+    "gender": "female",
+    "company": "BITTOR",
+    "email": "maritzadurham@bittor.com",
+    "phone": "+1 (971) 548-3711",
+    "address": "443 Junius Street, Chical, Colorado, 8630",
+    "about": "Deserunt et ad aliquip labore duis dolore dolore. Veniam nostrud nulla ullamco sint. Duis dolor dolor id aliquip tempor enim sint nostrud irure commodo culpa. Elit sunt qui esse irure nisi et commodo. Fugiat eu excepteur eu reprehenderit quis fugiat sunt magna id magna. Nulla reprehenderit pariatur eu anim cillum eiusmod commodo aliquip.\r\n",
+    "registered": "2014-12-23T11:39:11 -07:00",
+    "latitude": 63.407203,
+    "longitude": -159.270311,
+    "tags": [
+      "labore",
+      "exercitation",
+      "ad",
+      "duis",
+      "qui",
+      "adipisicing",
+      "duis"
+    ],
+    "friends": [
+      { "id": 0, "name": "Best Whitney" },
+      { "id": 1, "name": "Gay Guerrero" },
+      { "id": 2, "name": "Francine Waters" }
+    ],
+    "greeting": "Hello, Maritza Durham! You have 8 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "65f1aedc3e13c4ae88dec96a",
+    "index": 2,
+    "guid": "1553c50f-f40c-48c2-a0d4-6081e31be414",
+    "isActive": false,
+    "balance": "$3,819.54",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Greene Bryant",
+    "gender": "male",
+    "company": "TECHTRIX",
+    "email": "greenebryant@techtrix.com",
+    "phone": "+1 (911) 470-2611",
+    "address": "191 Brooklyn Road, Islandia, Georgia, 1743",
+    "about": "Consequat quis minim nostrud aute nulla. Amet culpa nisi pariatur veniam excepteur ad veniam deserunt nostrud nisi. Exercitation fugiat proident labore irure aute amet ad cillum commodo quis ad magna deserunt. Ea velit nostrud velit sunt minim elit consequat magna exercitation. Elit velit dolore cupidatat amet enim officia occaecat sint. Officia id voluptate quis commodo sunt magna labore do. Cupidatat excepteur aute labore ipsum pariatur.\r\n",
+    "registered": "2015-03-14T11:35:45 -07:00",
+    "latitude": -81.411829,
+    "longitude": 170.697624,
+    "tags": ["non", "ea", "veniam", "sint", "nisi", "dolor", "ut"],
+    "friends": [
+      { "id": 0, "name": "Espinoza Long" },
+      { "id": 1, "name": "Brandie Oneil" },
+      { "id": 2, "name": "Hines Roy" }
+    ],
+    "greeting": "Hello, Greene Bryant! You have 2 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "65f1aedc7aca47d43629679b",
+    "index": 3,
+    "guid": "d5783e7d-94a3-414f-9214-dbeac0163068",
+    "isActive": false,
+    "balance": "$3,808.17",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "brown",
+    "name": "Nielsen Pacheco",
+    "gender": "male",
+    "company": "MARTGO",
+    "email": "nielsenpacheco@martgo.com",
+    "phone": "+1 (932) 502-2949",
+    "address": "284 Bassett Avenue, Fidelis, North Carolina, 7098",
+    "about": "Lorem nostrud aute ea incididunt eu duis aliquip ex. Enim laboris do ipsum eu voluptate excepteur nisi sit enim qui sunt voluptate pariatur. Sit in excepteur laboris ad cupidatat excepteur ipsum nulla dolore. Nisi velit cillum ut do id proident proident laboris eiusmod. Velit nulla nostrud qui occaecat ullamco ea do velit ullamco veniam dolore et tempor ullamco. Do duis veniam dolor reprehenderit nostrud ex ad eu officia reprehenderit. Et dolore incididunt labore qui velit mollit non esse.\r\n",
+    "registered": "2019-02-07T01:23:55 -07:00",
+    "latitude": -5.901962,
+    "longitude": -57.184713,
+    "tags": [
+      "voluptate",
+      "sit",
+      "ad",
+      "sunt",
+      "voluptate",
+      "incididunt",
+      "dolore"
+    ],
+    "friends": [
+      { "id": 0, "name": "Silva Wolfe" },
+      { "id": 1, "name": "Flynn Rich" },
+      { "id": 2, "name": "Mandy Palmer" }
+    ],
+    "greeting": "Hello, Nielsen Pacheco! You have 5 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "65f1aedce81805066b826a89",
+    "index": 4,
+    "guid": "d3b04869-3eec-421c-b72b-cc548f2f4526",
+    "isActive": false,
+    "balance": "$1,588.90",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": "Mann Crawford",
+    "gender": "male",
+    "company": "MIRACLIS",
+    "email": "manncrawford@miraclis.com",
+    "phone": "+1 (979) 539-3046",
+    "address": "468 Dearborn Court, Callaghan, New Hampshire, 9513",
+    "about": "Qui ad enim fugiat est. Enim anim nisi labore duis velit occaecat mollit ex culpa. Duis ipsum labore pariatur sit aliquip ipsum. Occaecat ea occaecat ex aute amet labore Lorem labore voluptate. Id occaecat excepteur cupidatat aute minim sunt dolor aliquip deserunt.\r\n",
+    "registered": "2023-11-10T06:32:53 -07:00",
+    "latitude": -25.982761,
+    "longitude": -102.635154,
+    "tags": [
+      "quis",
+      "ipsum",
+      "anim",
+      "do",
+      "dolore",
+      "labore",
+      "sunt"
+    ],
+    "friends": [
+      { "id": 0, "name": "Salas Jackson" },
+      { "id": 1, "name": "Trevino Michael" },
+      { "id": 2, "name": "Fulton Franks" }
+    ],
+    "greeting": "Hello, Mann Crawford! You have 4 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "id": "83b9b29b-d70a-4946-a7c0-d059502cabc2",
+    "nama": "faris new kelima updated bisa",
+    "status": "okee updated"
+  }
+]
