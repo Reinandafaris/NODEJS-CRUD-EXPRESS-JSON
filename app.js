@@ -22,6 +22,12 @@ app.use((req, res, next) => {
   next();
 });
 
+app.get("/", (req, res) => {
+  res.status(200).json({
+    message: "Hello World",
+  });
+});
+
 app.use("/api/v1/costumers", costumerRouter);
 
 module.exports = app;
