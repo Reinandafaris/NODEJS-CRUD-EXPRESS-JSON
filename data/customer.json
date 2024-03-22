@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "65fda59d835cdb735282cdb7",
+    "name": "Pena Kim",
+    "email": "penakim@zytrex.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda59db112c97a10e04d1b",
+    "name": "Chandler Battle",
+    "email": "chandlerbattle@zytrex.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda59d14c6e8eb3f242f32",
+    "name": "Holcomb Sims",
+    "email": "holcombsims@zytrex.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda59da09b2d3f7eb83a10",
+    "name": "Miranda Montoya",
+    "email": "mirandamontoya@zytrex.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda59d80fcc24052e00ecd",
+    "name": "Mildred Curtis",
+    "email": "mildredcurtis@zytrex.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda59d6e496b826b439a97",
+    "name": "Stevens Carroll",
+    "email": "stevenscarroll@zytrex.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda59d455b0d5b5789a4f9",
+    "name": "Marisol William",
+    "email": "marisolwilliam@zytrex.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": ""
+  }
+]
