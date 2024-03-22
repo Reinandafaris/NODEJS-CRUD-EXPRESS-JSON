@@ -34,7 +34,11 @@
 ## Database Diagram
 
 Aplikasi ini mempunyai database diagram seperti berikut :
-![Database Diagram](./data/db-diagram.png)
+
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./data/db-diagram.png" alt="db-diagram" width="200"></a>
+</h1>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
