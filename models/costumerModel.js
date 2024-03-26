@@ -5,6 +5,9 @@ const customersSchema = new mongoose.Schema({
     type: String,
     required: [true, "name is required"],
   },
+  age: {
+    type: Number,
+  },
   email: {
     type: String,
     unique: true,
@@ -24,6 +27,11 @@ const customersSchema = new mongoose.Schema({
   },
   password: {
     type: String,
+    select: false,
+  },
+  createdAt: {
+    type: Date,
+    default: Date.now,
   },
 });
 
